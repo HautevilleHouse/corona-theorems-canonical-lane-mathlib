@@ -1,0 +1,14 @@
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.CoronaVirusMutationPackage
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.ImmuneResponseDynamics
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.SpikeBindingAffinity
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.TransmissionModeling
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.TherapeuticIntervention
+import HautevilleHouse.CoronaTheoremsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CoronaTheoremsCanonicalLaneLean
+
+-- Root module aggregation
+
+end CoronaTheoremsCanonicalLaneLean
+end HautevilleHouse
